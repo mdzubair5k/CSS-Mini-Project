@@ -5,9 +5,10 @@
 }
 
 .main_box{
-    background: url("photo (1).jpg");
+    background: url("camra.jpg");
     height: 100vh;
     object-fit: cover;
+    /* width: 100vw; */
     
 }
 
